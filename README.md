@@ -1,4 +1,4 @@
-### vscode配置
+### vscode插件
 
 - [Auto Close Tag]()	自动闭合HTML标签
 - [Auto Import]()	import 提示
