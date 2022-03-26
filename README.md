@@ -181,3 +181,8 @@
 ### mac-vscode 快捷键
 - [keyboard-shortcuts-macos](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf)
 
+### 在vscode写vue
+- [vuejs-tutorial](https://code.visualstudio.com/docs/nodejs/vuejs-tutorial)
+
+### 在vscode写react
+- [reactjs-tutorial](https://code.visualstudio.com/docs/nodejs/reactjs-tutorial)
