@@ -178,8 +178,14 @@
 - Open the Command Palette (Cmd+Shift+P) and type 'shell command' to find the Shell Command: Install 'code' command in PATH command.
 - Restart the terminal for the new $PATH value to take effect. You'll be able to type 'code .' in any folder to start editing files in that folder.
 
+### vscode docs
+- [Getting Started](https://code.visualstudio.com/docs)
+
 ### mac-vscode 快捷键
 - [keyboard-shortcuts-macos](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf)
+
+### 在vscode写js
+- [JavaScript in Visual Studio Code](https://code.visualstudio.com/docs/languages/javascript)
 
 ### 在vscode写vue
 - [vuejs-tutorial](https://code.visualstudio.com/docs/nodejs/vuejs-tutorial)
